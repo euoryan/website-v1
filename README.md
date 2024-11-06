@@ -39,7 +39,7 @@ const techStack = {
 
 ### Mobile
 <div align="center">
-    <img src="./assets/image/mobile.PNG" alt="Versão Mobile" width="300"/>
+    <img src="./assets\image\mobile.png" alt="Versão Mobile" width="300"/>
 </div>
 
 <br/>
