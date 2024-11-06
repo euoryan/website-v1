@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 75px;
+        fill: #fff;
+        font-family: "Noto Sans JP";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="さ" class="cls-1" transform="matrix(14.65, 0, 0, 14.65, -0.799, 916.906)">さ</text>
+</svg>
