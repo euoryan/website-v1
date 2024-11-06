@@ -65,10 +65,7 @@ Este projeto é totalmente open source e foi criado para ajudar desenvolvedores 
 <br/>
 
 <div align="center">
-    Deixa uma estrela para ajudar! ⭐
-    <br/>
-    <br/>
-    ---
-    <br/>
-    Feito com ☕ e código por Ryan
+
+Feito com ☕ e código por Ryan ;) Se gostou, deixa uma estrela pra ajudar! ⭐
+
 </div>
